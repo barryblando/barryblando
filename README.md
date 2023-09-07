@@ -1,4 +1,6 @@
-### Hi there 👋
+### Retr0_0x315
+
+A guy looking to make my developer workflow more awesome, build performant projects, understand memory, and ultimately craft really awesome software.
 
 <!--
 **barryblando/barryblando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
